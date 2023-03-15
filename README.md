@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="www.linkedin.com/in/nivedeeta-godhani">
-  <img src="https://img.shields.io/badge/www.linkedin.com/in/nivedeeta-godhani?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/https://www.linkedin.com/in/nivedeeta-godhani/?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://komarev.com/ghpvc/?username=niveditagodhani&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>
